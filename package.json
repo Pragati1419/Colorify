@@ -1,0 +1,26 @@
+{
+  "name": "colorify",
+  "version": "1.0.0",
+  "description": "A library to colorize console log",
+  "main": "lib/index.js",
+  "types":"lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare":"npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pragati1419/Colorify.git"
+  },
+  "keywords": [],
+  "author": "Pragati <pragatikri31@gmail.com>",
+  "license": "MIS",
+  "bugs": {
+    "url": "https://github.com/Pragati1419/Colorify/issues"
+  },
+  "homepage": "https://github.com/Pragati1419/Colorify#readme",
+  "files":
+  [
+    "lib/**/*"
+  ]
+}
