@@ -1,5 +1,7 @@
 # colorifie
 **colorifie is a CLI tool to log colorful text on browser's developer console**
+</br>
+NPM - [colorifie](https://www.npmjs.com/package/colorifie)
 
 
 ## Author
